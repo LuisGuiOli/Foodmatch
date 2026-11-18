@@ -1,0 +1,7 @@
+restaurant_id,restaurant_name,restaurant_description,restaurant_rating,city,dish_id,dish_name,dish_description,category,price,review_id,review_rating,review_comment
+1,Panela do Sertão,Almoço caseiro e comida nordestina,4.6,Feira de Santana,1,Frango grelhado com feijão,Filé de frango na chapa com arroz e feijão carioca,Marmita,19.90,1,5,Bem temperado e com bastante feijão
+1,Panela do Sertão,Almoço caseiro e comida nordestina,4.6,Feira de Santana,2,Escondidinho de carne do sol,Carne do sol desfiada coberta com purê de aipim e queijo coalho,Regional,32.90,2,4,Purê cremoso e carne bem servida
+2,Folha e Grão,Cozinha de vegetais e grãos,4.8,Feira de Santana,3,Moqueca de banana-da-terra,Banana-da-terra com dendê e leite de coco acompanhada de arroz sem ingredientes de origem animal,Vegano,27.90,3,5,O dendê combinou muito com a banana
+2,Folha e Grão,Cozinha de vegetais e grãos,4.8,Feira de Santana,4,Salada de grão-de-bico,Grão-de-bico com pepino e tomate ao molho de limão sem ingredientes de origem animal,Salada,18.50,,,
+3,Brasa da Vila,Carnes e sanduíches na brasa,4.4,Feira de Santana,5,Frango na brasa com legumes,Peito de frango assado com abobrinha e cenoura grelhadas,Grelhado,34.90,4,4,Frango suculento e legumes no ponto
+3,Brasa da Vila,Carnes e sanduíches na brasa,4.4,Feira de Santana,6,Hambúrguer de costela,Pão brioche com hambúrguer bovino de costela e queijo cheddar,Sanduíche,29.90,,,

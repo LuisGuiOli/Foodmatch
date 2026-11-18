@@ -1,0 +1,22 @@
+[
+  {"consulta": "frango feijão", "relevancia": {"1": 2}},
+  {"consulta": "quero uma marmita com arroz e feijão", "relevancia": {"1": 2}},
+  {"consulta": "frango para o almoço", "relevancia": {"1": 2, "5": 2}},
+  {"consulta": "frango para o almoço", "orcamento": 20, "relevancia": {"1": 2, "5": 1}},
+  {"consulta": "peito de frango com legumes na brasa", "relevancia": {"5": 2}},
+  {"consulta": "quero carne do sol com aipim", "relevancia": {"2": 2}},
+  {"consulta": "escondidinho de carne", "relevancia": {"2": 2}},
+  {"consulta": "purê de mandioca com queijo e carne desfiada", "relevancia": {"2": 2}},
+  {"consulta": "comida nordestina com carne", "relevancia": {"2": 2}},
+  {"consulta": "moqueca de banana", "relevancia": {"3": 2}},
+  {"consulta": "quero algo com dendê e leite de coco", "relevancia": {"3": 2}},
+  {"consulta": "almoço sem ingredientes de origem animal", "relevancia": {"3": 2, "4": 2}},
+  {"consulta": "almoço sem ingredientes de origem animal", "orcamento": 20, "relevancia": {"4": 2, "3": 1}},
+  {"consulta": "salada com pepino e tomate", "relevancia": {"4": 2}},
+  {"consulta": "quero grão-de-bico com limão", "relevancia": {"4": 2}},
+  {"consulta": "um prato fresco de vegetais para o almoço", "relevancia": {"4": 2}},
+  {"consulta": "hambúrguer de costela", "relevancia": {"6": 2}},
+  {"consulta": "sanduíche de carne com cheddar", "relevancia": {"6": 2}},
+  {"consulta": "lanche no pão brioche", "orcamento": 30, "relevancia": {"6": 2}},
+  {"consulta": "quero uma refeição com arroz", "orcamento": 20, "relevancia": {"1": 2, "3": 1}}
+]

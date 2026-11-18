@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Frontend
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Configurações locais
+.env
+.env.*
+!.env.example
